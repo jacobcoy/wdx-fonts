@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Gill Sans Nova';
+    src: url('GillSansNova-Bold.eot');
+    src: url('GillSansNova-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GillSansNova-Bold.woff2') format('woff2'),
+        url('GillSansNova-Bold.woff') format('woff'),
+        url('GillSansNova-Bold.ttf') format('truetype'),
+        url('GillSansNova-Bold.svg#GillSansNova-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gill Sans Nova';
+    src: url('GillSansNova-Medium.eot');
+    src: url('GillSansNova-Medium.eot?#iefix') format('embedded-opentype'),
+        url('GillSansNova-Medium.woff2') format('woff2'),
+        url('GillSansNova-Medium.woff') format('woff'),
+        url('GillSansNova-Medium.ttf') format('truetype'),
+        url('GillSansNova-Medium.svg#GillSansNova-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gill Sans Nova';
+    src: url('GillSansNova-Light.eot');
+    src: url('GillSansNova-Light.eot?#iefix') format('embedded-opentype'),
+        url('GillSansNova-Light.woff2') format('woff2'),
+        url('GillSansNova-Light.woff') format('woff'),
+        url('GillSansNova-Light.ttf') format('truetype'),
+        url('GillSansNova-Light.svg#GillSansNova-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gill Sans Nova';
+    src: url('GillSansNova-SemiBold.eot');
+    src: url('GillSansNova-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('GillSansNova-SemiBold.woff2') format('woff2'),
+        url('GillSansNova-SemiBold.woff') format('woff'),
+        url('GillSansNova-SemiBold.ttf') format('truetype'),
+        url('GillSansNova-SemiBold.svg#GillSansNova-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gill Sans Nova';
+    src: url('GillSansNova-UltraLight.eot');
+    src: url('GillSansNova-UltraLight.eot?#iefix') format('embedded-opentype'),
+        url('GillSansNova-UltraLight.woff2') format('woff2'),
+        url('GillSansNova-UltraLight.woff') format('woff'),
+        url('GillSansNova-UltraLight.ttf') format('truetype'),
+        url('GillSansNova-UltraLight.svg#GillSansNova-UltraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
