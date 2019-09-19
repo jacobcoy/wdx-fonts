@@ -46,15 +46,3 @@
     font-style: normal;
 }
 
-@font-face {
-    font-family: 'Gill Sans Nova for JL';
-    src: url('GillSansNova-UltraLight.eot');
-    src: url('GillSansNova-UltraLight.eot?#iefix') format('embedded-opentype'),
-        url('GillSansNova-UltraLight.woff2') format('woff2'),
-        url('GillSansNova-UltraLight.woff') format('woff'),
-        url('GillSansNova-UltraLight.ttf') format('truetype'),
-        url('GillSansNova-UltraLight.svg#GillSansNova-UltraLight') format('svg');
-    font-weight: 200;
-    font-style: normal;
-}
-
