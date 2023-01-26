@@ -46,3 +46,93 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'sebentamedium';
+    src: url('sebenta-medium-webfont.woff2') format('woff2'),
+         url('sebenta-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sebentaheavy';
+    src: url('sebenta-heavy-webfont.woff2') format('woff2'),
+         url('sebenta-heavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sebentabold_italic';
+    src: url('sebenta-bolditalic-webfont.woff2') format('woff2'),
+         url('sebenta-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sebentabold';
+    src: url('sebenta-bold-webfont.woff2') format('woff2'),
+         url('sebenta-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sebentalight';
+    src: url('sebenta-light-webfont.woff2') format('woff2'),
+         url('sebenta-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sebentamedium_italic';
+    src: url('sebenta-mediumitalic-webfont.woff2') format('woff2'),
+         url('sebenta-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sebentaregular';
+    src: url('sebenta-regular-webfont.woff2') format('woff2'),
+         url('sebenta-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sebentalight_italic';
+    src: url('sebenta-lightitalic-webfont.woff2') format('woff2'),
+         url('sebenta-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sebentaregular_italic';
+    src: url('sebenta-regularitalic-webfont.woff2') format('woff2'),
+         url('sebenta-regularitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sebentaheavy_italic';
+    src: url('sebenta-heavyitalic-webfont.woff2') format('woff2'),
+         url('sebenta-heavyitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
