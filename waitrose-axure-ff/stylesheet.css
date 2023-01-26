@@ -48,7 +48,7 @@
 
 
 @font-face {
-    font-family: 'sebentamedium', 'Sebenta Medium', 'Sebenta';
+    font-family: 'Sebenta-Medium', 'Sebenta Medium', 'Sebenta';
     src: url('sebenta-medium-webfont.woff2') format('woff2'),
          url('sebenta-medium-webfont.woff') format('woff');
     font-weight: 500;
