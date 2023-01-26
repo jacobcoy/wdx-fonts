@@ -42,7 +42,7 @@
         url('GillSansNova-SemiBold.woff') format('woff'),
         url('GillSansNova-SemiBold.ttf') format('truetype'),
         url('GillSansNova-SemiBold.svg#GillSansNova-SemiBold') format('svg');
-    font-weight: 600;
+    font-weight: normal;
     font-style: normal;
 }
 
@@ -60,7 +60,7 @@
     font-family: 'sebentaheavy';
     src: url('sebenta-heavy-webfont.woff2') format('woff2'),
          url('sebenta-heavy-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: 900;
     font-style: normal;
 
 }
@@ -78,7 +78,7 @@
     font-family: 'sebentabold';
     src: url('sebenta-bold-webfont.woff2') format('woff2'),
          url('sebenta-bold-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: 700;
     font-style: normal;
 
 }
