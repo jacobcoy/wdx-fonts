@@ -48,10 +48,10 @@
 
 
 @font-face {
-    font-family: 'Sebenta-Medium', 'Sebenta Medium', 'Sebenta';
+    font-family: 'sebentamedium', 'Sebenta Medium', 'Sebenta';
     src: url('sebenta-medium-webfont.woff2') format('woff2'),
          url('sebenta-medium-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: 500;
     font-style: normal;
 
 }
@@ -87,7 +87,7 @@
     font-family: 'sebentalight';
     src: url('sebenta-light-webfont.woff2') format('woff2'),
          url('sebenta-light-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: 200;
     font-style: normal;
 
 }
@@ -105,7 +105,7 @@
     font-family: 'sebentaregular';
     src: url('sebenta-regular-webfont.woff2') format('woff2'),
          url('sebenta-regular-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
 
 }
